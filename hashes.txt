@@ -1,3 +1,0 @@
-victim: HX9LLTdc/jiDE: 503:100:Lama Victim:/home/victim:/bin/sh
-root: DFNFxgW7C05fo: 504:100:Markus Hess:/root:/bin/bash
-root:$6$ms32yIGN$NyXj0YofkK14MpRwFHvXQW0yvUid.slJtgxHE2EuQqgD74S/GaGGs5VCnqeC.bS0MzTf/EFS3uspQMNeepIAc.

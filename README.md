@@ -1,6 +1,5 @@
-# PWCracker
-Python PWCracker
+# pycracker
 
-Usage: python PWCracker.py -f <file> -w <wordlist>
+Usage: python pwcracker.py -f <file> -w <wordlist>
   
-Example: python PWCracker.py -f /etc/shadow -w /usr/share/wordlists/rockyou.txt
+Example: python pwcracker.py -f /etc/shadow -w /usr/share/wordlists/rockyou.txt
